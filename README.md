@@ -10,7 +10,3 @@ https://youtu.be/fdY41LyOezk
 -user passwords are encrypted in db.
 Here is db ER Diagram:
 ![ER Diagram](https://user-images.githubusercontent.com/23221280/155997328-a156eec7-33fb-4b37-9f61-bf773f8750c5.PNG)
-
-
-
-I will add codes later.
